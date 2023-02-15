@@ -1,0 +1,38 @@
+.speech
+ {
+    color: aqua;
+    font-size: medium;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+ }
+ .direction {
+    background-color: chocolate;
+    color: azure;
+    font-size: medium;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+ .direction:hover
+ {
+    color: blueviolet ;
+
+ }
+ .name {
+    color: beige;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+ }
+ .LUKE
+ {
+    font-size: medium;
+    color: grey;
+ }
+ .revenue
+ {
+    font-size: medium;
+    color:purple;
+ }
+.LUKE:hover{
+    
+    color: darkgoldenrod;
+    font-family: Verdana, Geneva, Tahoma, sans-serifs;
+}
+
