@@ -1,18 +1,20 @@
 .speech
  {
-    color: aqua;
+    color: black;
     font-size: medium;
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
  }
  .direction {
-    background-color: chocolate;
-    color: azure;
+    background-color: tomato;
+    color: black;
     font-size: medium;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
  }
  .direction:hover
  {
     color: blueviolet ;
+    background-color: lightblue;
+
 
  }
  .name {
@@ -22,17 +24,31 @@
  }
  .LUKE
  {
-    font-size: medium;
-    color: grey;
+    font-size: large;
+    color:blueviolet;
  }
  .revenue
  {
-    font-size: medium;
-    color:purple;
+    font-size: large;
+    color: gold;
  }
 .LUKE:hover{
     
-    color: darkgoldenrod;
+    color:gainsboro;
     font-family: Verdana, Geneva, Tahoma, sans-serifs;
 }
 
+table,
+th,
+td
+{
+    border: 1px;;
+    margin:5px,10px,5px,10px;
+    padding: 4px;
+    border-color:darkorchid ;
+    text-align: center;
+    color: darkmagenta;
+    border-style: double;
+
+
+}
