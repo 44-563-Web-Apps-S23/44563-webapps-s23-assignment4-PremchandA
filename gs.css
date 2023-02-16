@@ -36,9 +36,15 @@
     
     color:gainsboro;
     font-family: Verdana, Geneva, Tahoma, sans-serifs;
+    text-shadow: 0 0 10px greenyellow ;
+}
+.revenue:hover
+{
+   color: gold;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   text-shadow: 0 0 10px red;
 }
 
-table,
 th,
 td
 {
